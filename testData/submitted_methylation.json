@@ -1,0 +1,172 @@
+[
+    {
+        "assay_instrument": null,
+        "assay_instrument_model": "Illumina Infinium HumanMethylation450K",
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_db29c72c29"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "cc301b0653",
+        "file_size": 20,
+        "md5sum": "34f96a2bb7dea83147a088f6be72a1f3",
+        "submitter_id": "submitted_methylation_5a759aa7b2",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": null,
+        "assay_instrument_model": null,
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_a81892c3a6"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "0175f886aa",
+        "file_size": 95,
+        "md5sum": "60f3707264465c077b3d51910a1b2ea5",
+        "submitter_id": "submitted_methylation_356492d8fa",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": "Illumina",
+        "assay_instrument_model": null,
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_6b5c839824"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "848ba8ad55",
+        "file_size": 97,
+        "md5sum": "eed486816edd98896367b3f8859639ef",
+        "submitter_id": "submitted_methylation_64ce59ce8d",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": "Illumina",
+        "assay_instrument_model": null,
+        "assay_method": null,
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_947670efe9"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "601dd67fb8",
+        "file_size": 41,
+        "md5sum": "31c8944966f3b0b9d6ffbc7a919df479",
+        "submitter_id": "submitted_methylation_8644f84413",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": "Illumina",
+        "assay_instrument_model": "Illumina Infinium HumanMethylation450",
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_53cedfebbb"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "21fdbe48f0",
+        "file_size": 17,
+        "md5sum": "b2c7f4106a5ee55f568244a230eccf5a",
+        "submitter_id": "submitted_methylation_7f30243abb",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": "Illumina",
+        "assay_instrument_model": "Illumina Infinium HumanMethylation450K",
+        "assay_method": null,
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_2062fc4a6b"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "263433543f",
+        "file_size": 26,
+        "md5sum": "65564ef6ea909151487b20df9732cb50",
+        "submitter_id": "submitted_methylation_1562eaaedb",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": null,
+        "assay_instrument_model": null,
+        "assay_method": null,
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_d7f184b089"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "5f4e1dac05",
+        "file_size": 47,
+        "md5sum": "5ec74878479a61cc962abcc6ba3fa7b1",
+        "submitter_id": "submitted_methylation_f29e790472",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": "Illumina",
+        "assay_instrument_model": "Illumina Infinium HumanMethylation450",
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_eb8c902789"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "b1e147c1f6",
+        "file_size": 84,
+        "md5sum": "2986a054321ebfa98ab9da0e2566cbd6",
+        "submitter_id": "submitted_methylation_08977144a7",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": null,
+        "assay_instrument_model": "Illumina Infinium HumanMethylation450K",
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_d43250c0f7"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "58cbeedd8b",
+        "file_size": 47,
+        "md5sum": "46ca4bf3fdfb9ccabccc2a32ce1c09f8",
+        "submitter_id": "submitted_methylation_3445ae1bae",
+        "type": "submitted_methylation"
+    },
+    {
+        "assay_instrument": "Illumina",
+        "assay_instrument_model": "Illumina Infinium HumanMethylation450K",
+        "assay_method": "Methylation Array",
+        "consent_codes": [],
+        "core_metadata_collections": {
+            "submitter_id": "core_metadata_collection_22aba2173d"
+        },
+        "data_category": "Methylation Data",
+        "data_format": "IDAT",
+        "data_type": "Methylation Intensity Values",
+        "file_name": "c1fee344da",
+        "file_size": 76,
+        "md5sum": "c22a605e2b76bc129fd4cd2886e5bba3",
+        "submitter_id": "submitted_methylation_2de594c353",
+        "type": "submitted_methylation"
+    }
+]

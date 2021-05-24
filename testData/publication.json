@@ -1,0 +1,92 @@
+[
+    {
+        "doi": "f31aee5f18",
+        "pmid": "d9f571c5ad",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_bfb812807e",
+        "type": "publication"
+    },
+    {
+        "doi": "1b0f0c6784",
+        "pmid": "7e74253657",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_10a5fd71b1",
+        "type": "publication"
+    },
+    {
+        "doi": "f0a829bf3d",
+        "pmid": "edc4a8bbe0",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_8c0baee1eb",
+        "type": "publication"
+    },
+    {
+        "doi": "e75d9bfd86",
+        "pmid": "8f8cc739ba",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_fd6659c95b",
+        "type": "publication"
+    },
+    {
+        "doi": "838d2ea893",
+        "pmid": "ff7efec451",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_7d47326566",
+        "type": "publication"
+    },
+    {
+        "doi": "860f0b31c9",
+        "pmid": "3c7be83c74",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_6174ceec03",
+        "type": "publication"
+    },
+    {
+        "doi": "c183acd3bb",
+        "pmid": "0564577a3f",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_05f74e13ff",
+        "type": "publication"
+    },
+    {
+        "doi": "e10035ca15",
+        "pmid": "191c398c1a",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_e12495a416",
+        "type": "publication"
+    },
+    {
+        "doi": "4f04dc427e",
+        "pmid": "2bf07380a3",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_1e4f13b42b",
+        "type": "publication"
+    },
+    {
+        "doi": "9d47337274",
+        "pmid": "0f2e9a373b",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "publication_90656a34cb",
+        "type": "publication"
+    }
+]

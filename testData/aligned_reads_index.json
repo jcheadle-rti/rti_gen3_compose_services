@@ -1,0 +1,142 @@
+[
+    {
+        "consent_codes": [],
+        "data_category": "Sequencing Reads",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "64e01282fb",
+        "file_size": 61,
+        "md5sum": "861a72884cd23160ae939fe9236a7c4c",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_e615424cbc"
+        },
+        "submitter_id": "aligned_reads_index_0a92e8fd6b",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "99771783ab",
+        "file_size": 64,
+        "md5sum": "06861168c272d054a65ef2b692cfc485",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_8ed431ccfc"
+        },
+        "submitter_id": "aligned_reads_index_38a1accf0e",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Sequencing Reads",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "83caf801dd",
+        "file_size": 39,
+        "md5sum": "b19b2ee943bb78e103da242fe5b7cf09",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_6572afa131"
+        },
+        "submitter_id": "aligned_reads_index_311b5633e3",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Raw Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "f9d02dfc24",
+        "file_size": 0,
+        "md5sum": "d9ef3ad852da1e831713b7aa4aea7be6",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_0ced93a4ec"
+        },
+        "submitter_id": "aligned_reads_index_c0d157d120",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Raw Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "806bbe26e0",
+        "file_size": 31,
+        "md5sum": "2b18c88cf5ac3f97ccf3a3caeab69069",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_0945b0dc58"
+        },
+        "submitter_id": "aligned_reads_index_06adc84563",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Raw Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "fd12b8bc71",
+        "file_size": 77,
+        "md5sum": "7649d376569b8b2b72c03c8f944b2f60",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_ee812839bb"
+        },
+        "submitter_id": "aligned_reads_index_757ceb282e",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "33a29a6af0",
+        "file_size": 54,
+        "md5sum": "75a2b9c679cec9bec4b7b39db7e9b767",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_bfd21bf689"
+        },
+        "submitter_id": "aligned_reads_index_0e7a91229c",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Sequencing Reads",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "43f4650f32",
+        "file_size": 58,
+        "md5sum": "74aa6534d57c0024d178b5b241a118b6",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_1ddcdfa60a"
+        },
+        "submitter_id": "aligned_reads_index_68c6090cfc",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "82e5f1a9e4",
+        "file_size": 87,
+        "md5sum": "4cf9f2733e34fe49fde4c2bc57c0f65f",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_54ced3e46c"
+        },
+        "submitter_id": "aligned_reads_index_b9afd0db84",
+        "type": "aligned_reads_index"
+    },
+    {
+        "consent_codes": [],
+        "data_category": "Raw Sequencing Data",
+        "data_format": "BAI",
+        "data_type": "Aligned Reads Index",
+        "file_name": "bad196723a",
+        "file_size": 83,
+        "md5sum": "f2ba6173a6078e17e53b74a801f585b0",
+        "submitted_aligned_reads_files": {
+            "submitter_id": "submitted_aligned_reads_5879751bab"
+        },
+        "submitter_id": "aligned_reads_index_d987a56b58",
+        "type": "aligned_reads_index"
+    }
+]

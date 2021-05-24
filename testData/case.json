@@ -1,0 +1,102 @@
+[
+    {
+        "consent_codes": [],
+        "disease_type": "bf04d264e2",
+        "experiments": {
+            "submitter_id": "experiment_2459ecb105"
+        },
+        "primary_site": "5b8af42892",
+        "submitter_id": "case_51adfdf50e",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "94eb975fcf",
+        "experiments": {
+            "submitter_id": "experiment_c097c341a1"
+        },
+        "primary_site": "e6f03dd53c",
+        "submitter_id": "case_7cc9e67a29",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "8ff2f06d52",
+        "experiments": {
+            "submitter_id": "experiment_e4b672a654"
+        },
+        "primary_site": "78f912b042",
+        "submitter_id": "case_e5835de0d3",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "993344ea7d",
+        "experiments": {
+            "submitter_id": "experiment_8295b71928"
+        },
+        "primary_site": "835d980629",
+        "submitter_id": "case_5c46d21d76",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "56285ad406",
+        "experiments": {
+            "submitter_id": "experiment_36a0e9adc6"
+        },
+        "primary_site": "5656eb1871",
+        "submitter_id": "case_baaf5ce74a",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "4cd8afc1e5",
+        "experiments": {
+            "submitter_id": "experiment_8e795f1747"
+        },
+        "primary_site": "cc17dfb574",
+        "submitter_id": "case_c00593a6de",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "114f178de4",
+        "experiments": {
+            "submitter_id": "experiment_a78fb38dcc"
+        },
+        "primary_site": "e023d51d7a",
+        "submitter_id": "case_e14165a448",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "6e0c143c66",
+        "experiments": {
+            "submitter_id": "experiment_6f0e956284"
+        },
+        "primary_site": "bfd1b73c8a",
+        "submitter_id": "case_a545afabfb",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "136952c8f8",
+        "experiments": {
+            "submitter_id": "experiment_473d88405b"
+        },
+        "primary_site": "2b5f02bbe8",
+        "submitter_id": "case_a16d357628",
+        "type": "case"
+    },
+    {
+        "consent_codes": [],
+        "disease_type": "30f87fabd6",
+        "experiments": {
+            "submitter_id": "experiment_dafdf9393d"
+        },
+        "primary_site": "15f17f5c56",
+        "submitter_id": "case_6de2deb70c",
+        "type": "case"
+    }
+]

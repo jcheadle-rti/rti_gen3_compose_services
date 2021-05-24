@@ -1,0 +1,82 @@
+[
+    {
+        "acknowledgee": "2efab5e453",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_fa338ccd6e",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "f49d7cb4cc",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_f802629409",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "6e8def5601",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_320f02c8f9",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "d7a5a8ba5c",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_e9343342ee",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "32f25a6261",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_25509a7d5e",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "3273c56476",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_0917333f57",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "5fe99ca96d",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_11f8cbf50a",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "2c53989be7",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_a2d8fa2013",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "78dee3ac90",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_2b6030be62",
+        "type": "acknowledgement"
+    },
+    {
+        "acknowledgee": "b3c45f1bff",
+        "projects": {
+            "code": "P1"
+        },
+        "submitter_id": "acknowledgement_8f96148ef5",
+        "type": "acknowledgement"
+    }
+]

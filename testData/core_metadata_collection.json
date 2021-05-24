@@ -1,0 +1,212 @@
+[
+    {
+        "contributor": "41a083b746",
+        "coverage": "88d49924f9",
+        "creator": "8001192f58",
+        "data_type": "5e88803d37",
+        "date": "3df946c469",
+        "description": "cf463caaa1",
+        "format": "cc2d9334cc",
+        "language": "3f0fe014da",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "0a1ba11d37",
+        "relation": "c8b9230c46",
+        "rights": "4708a84497",
+        "source": "43ca102a6d",
+        "subject": "92667a936e",
+        "submitter_id": "core_metadata_collection_db29c72c29",
+        "title": "c2402bc464",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "079705dcff",
+        "coverage": "b188400a8b",
+        "creator": "d5d3817ec9",
+        "data_type": "a848f6f94e",
+        "date": "632c30b916",
+        "description": "9ce506fb4a",
+        "format": "79cbabb1d5",
+        "language": "8f8942aad7",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "dd673d2d27",
+        "relation": "fa5bebe117",
+        "rights": "4e9486784b",
+        "source": "edf9baa698",
+        "subject": "f0a31e7fea",
+        "submitter_id": "core_metadata_collection_a81892c3a6",
+        "title": "dd0572d46b",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "d7132398a8",
+        "coverage": "f0303d7242",
+        "creator": "4ae1446271",
+        "data_type": "2f944cdf93",
+        "date": "7dca1f64a5",
+        "description": "85121fc06b",
+        "format": "fdfe861967",
+        "language": "5f6640fbfc",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "da452d4a20",
+        "relation": "3b844eb5ab",
+        "rights": "666aa3f410",
+        "source": "b8f3e8df22",
+        "subject": "77041e2fc5",
+        "submitter_id": "core_metadata_collection_6b5c839824",
+        "title": "ff5f3f2eaf",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "4e23365574",
+        "coverage": "57d7da90d1",
+        "creator": "f3c58eabd5",
+        "data_type": "6dccb14ec6",
+        "date": "4f72e469e8",
+        "description": "526966b82f",
+        "format": "73cb68b7c0",
+        "language": "19ca58eac1",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "9b3647cbce",
+        "relation": "1e8d085513",
+        "rights": "6aac117339",
+        "source": "8d95b61e33",
+        "subject": "afcdcf361f",
+        "submitter_id": "core_metadata_collection_947670efe9",
+        "title": "f9cba94950",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "1a6d3f519b",
+        "coverage": "e2dbab1230",
+        "creator": "a7c21ac4c1",
+        "data_type": "885232800b",
+        "date": "4e7b6f3ac3",
+        "description": "045e35df61",
+        "format": "863b1d3775",
+        "language": "8d50a7a53c",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "63093382c5",
+        "relation": "d04373a57f",
+        "rights": "8d258cb1dc",
+        "source": "87ffd72672",
+        "subject": "d89d25e4a8",
+        "submitter_id": "core_metadata_collection_53cedfebbb",
+        "title": "d2d1f997ff",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "8699c9e2fe",
+        "coverage": "436acdda95",
+        "creator": "f96f6391a9",
+        "data_type": "fff8078234",
+        "date": "d708161e72",
+        "description": "cb7a43e631",
+        "format": "14d9f60172",
+        "language": "3b904d62e1",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "cca7751d1e",
+        "relation": "bdfc8684dd",
+        "rights": "333a6b4384",
+        "source": "bf6f2ac6ff",
+        "subject": "579b9769fd",
+        "submitter_id": "core_metadata_collection_2062fc4a6b",
+        "title": "24f632ccae",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "e634db677f",
+        "coverage": "82e887110a",
+        "creator": "3f245ee8ca",
+        "data_type": "cdd9933455",
+        "date": "8c70b6c174",
+        "description": "15d726550a",
+        "format": "b95be0bb4b",
+        "language": "0ced62e791",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "24b982e9fa",
+        "relation": "1bffa02b8f",
+        "rights": "82e0247ef3",
+        "source": "73a9cf291a",
+        "subject": "4efbe102bc",
+        "submitter_id": "core_metadata_collection_d7f184b089",
+        "title": "cdd10f7161",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "978618131e",
+        "coverage": "25b835ea1e",
+        "creator": "bf8b41002a",
+        "data_type": "73e998dd6e",
+        "date": "fc41579134",
+        "description": "1348084ea8",
+        "format": "8899602a2d",
+        "language": "e137168c0b",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "2d5156dbd0",
+        "relation": "affa2a5295",
+        "rights": "246051a8f9",
+        "source": "8ea61d3fdc",
+        "subject": "fd80ab3716",
+        "submitter_id": "core_metadata_collection_eb8c902789",
+        "title": "f85f9c2dfa",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "c827574f48",
+        "coverage": "040c23312a",
+        "creator": "93066af5de",
+        "data_type": "97d7a930f0",
+        "date": "75522722c8",
+        "description": "ce957a5bbf",
+        "format": "9ace034644",
+        "language": "0cf4074647",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "175cca5b7c",
+        "relation": "e90e341a5c",
+        "rights": "b6b4f62de4",
+        "source": "14d8daf007",
+        "subject": "a0a09185d7",
+        "submitter_id": "core_metadata_collection_d43250c0f7",
+        "title": "6435c5637b",
+        "type": "core_metadata_collection"
+    },
+    {
+        "contributor": "e91f283e11",
+        "coverage": "46a2a981d5",
+        "creator": "f4a4cf0874",
+        "data_type": "1a2213de9e",
+        "date": "339b75fffc",
+        "description": "9f242e6e95",
+        "format": "3305c0ce9f",
+        "language": "3ecdcca04f",
+        "projects": {
+            "code": "P1"
+        },
+        "publisher": "f0db1f24c4",
+        "relation": "908e98c9ea",
+        "rights": "755535fa41",
+        "source": "910ed11f71",
+        "subject": "5ade68659e",
+        "submitter_id": "core_metadata_collection_22aba2173d",
+        "title": "5c5528af9a",
+        "type": "core_metadata_collection"
+    }
+]

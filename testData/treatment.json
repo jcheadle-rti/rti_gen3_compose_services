@@ -1,0 +1,162 @@
+[
+    {
+        "days_to_treatment": 40.949216608850904,
+        "days_to_treatment_end": 95.79397009279344,
+        "days_to_treatment_start": 87.29926451755026,
+        "diagnoses": {
+            "submitter_id": "diagnosis_8e804af81e"
+        },
+        "submitter_id": "treatment_df69d8dae1",
+        "therapeutic_agents": "8e9b208d2c",
+        "treatment_anatomic_site": "Gastrointestinal, Pancreas",
+        "treatment_intent_type": "9af8334c77",
+        "treatment_or_therapy": null,
+        "treatment_outcome": null,
+        "treatment_type": "Other",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 59.39586930897698,
+        "days_to_treatment_end": 95.73434756499559,
+        "days_to_treatment_start": 78.80847332309213,
+        "diagnoses": {
+            "submitter_id": "diagnosis_825496b09c"
+        },
+        "submitter_id": "treatment_d5f0ad5bab",
+        "therapeutic_agents": "b05dc5c393",
+        "treatment_anatomic_site": "Mediastinum",
+        "treatment_intent_type": "dde307202e",
+        "treatment_or_therapy": null,
+        "treatment_outcome": "Treatment Stopped Due to Toxicity",
+        "treatment_type": "Ablation",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 95.7013736449129,
+        "days_to_treatment_end": 99.33510360140701,
+        "days_to_treatment_start": 46.569787546698635,
+        "diagnoses": {
+            "submitter_id": "diagnosis_9d4a6cf4bd"
+        },
+        "submitter_id": "treatment_de77d97ad1",
+        "therapeutic_agents": "956c8757e6",
+        "treatment_anatomic_site": "Spine",
+        "treatment_intent_type": "106a94f112",
+        "treatment_or_therapy": "yes",
+        "treatment_outcome": "Treatment Stopped Due to Toxicity",
+        "treatment_type": "Radiation Therapy",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 49.86213687598623,
+        "days_to_treatment_end": 12.490516271819763,
+        "days_to_treatment_start": 75.96115548039525,
+        "diagnoses": {
+            "submitter_id": "diagnosis_ba574502d8"
+        },
+        "submitter_id": "treatment_e870482c10",
+        "therapeutic_agents": "879cd20250",
+        "treatment_anatomic_site": "Chest Wall",
+        "treatment_intent_type": "c4c76d3577",
+        "treatment_or_therapy": "no",
+        "treatment_outcome": "Treatment Ongoing",
+        "treatment_type": "Not Allowed To Collect",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 83.51292239566442,
+        "days_to_treatment_end": 4.686755885839766,
+        "days_to_treatment_start": 18.311983037569547,
+        "diagnoses": {
+            "submitter_id": "diagnosis_605d71d89e"
+        },
+        "submitter_id": "treatment_3a5cc4dc63",
+        "therapeutic_agents": "65906fbebb",
+        "treatment_anatomic_site": "Retroperitoneal",
+        "treatment_intent_type": "7a9b6dca5a",
+        "treatment_or_therapy": "not reported",
+        "treatment_outcome": "Treatment Stopped Due to Toxicity",
+        "treatment_type": "Ablation",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 10.394878914293715,
+        "days_to_treatment_end": 36.912977409046,
+        "days_to_treatment_start": 22.76380110514583,
+        "diagnoses": {
+            "submitter_id": "diagnosis_6ff844878c"
+        },
+        "submitter_id": "treatment_5bde8a6fc5",
+        "therapeutic_agents": "2474cf13cc",
+        "treatment_anatomic_site": "Splenic",
+        "treatment_intent_type": "4f81f3353a",
+        "treatment_or_therapy": null,
+        "treatment_outcome": "Treatment Stopped Due to Toxicity",
+        "treatment_type": "Not Allowed To Collect",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 46.40465316211547,
+        "days_to_treatment_end": 75.24114578303858,
+        "days_to_treatment_start": 98.28831218694357,
+        "diagnoses": {
+            "submitter_id": "diagnosis_c5a43430f7"
+        },
+        "submitter_id": "treatment_521b592876",
+        "therapeutic_agents": "67eb196e42",
+        "treatment_anatomic_site": "Supraclavicular/Axillary Level 3",
+        "treatment_intent_type": "a477b08b15",
+        "treatment_or_therapy": "no",
+        "treatment_outcome": "Treatment Ongoing",
+        "treatment_type": "Cryoablation",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 35.366034174143465,
+        "days_to_treatment_end": 4.7370664348982405,
+        "days_to_treatment_start": 9.247413540439386,
+        "diagnoses": {
+            "submitter_id": "diagnosis_aa052dbcec"
+        },
+        "submitter_id": "treatment_f5ccac1c09",
+        "therapeutic_agents": "52341960c6",
+        "treatment_anatomic_site": "Shoulder",
+        "treatment_intent_type": "306992a3ad",
+        "treatment_or_therapy": "yes",
+        "treatment_outcome": "Unknown",
+        "treatment_type": "Chemotherapy",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 55.66810653342947,
+        "days_to_treatment_end": 56.116146049403724,
+        "days_to_treatment_start": 15.50855683697623,
+        "diagnoses": {
+            "submitter_id": "diagnosis_6aa3291fa4"
+        },
+        "submitter_id": "treatment_8254201176",
+        "therapeutic_agents": "9b22b59626",
+        "treatment_anatomic_site": "Genitourinary, NOS",
+        "treatment_intent_type": "09622db685",
+        "treatment_or_therapy": "no",
+        "treatment_outcome": "Unknown",
+        "treatment_type": "Radiation Therapy",
+        "type": "treatment"
+    },
+    {
+        "days_to_treatment": 73.09995499475126,
+        "days_to_treatment_end": 29.70489219818243,
+        "days_to_treatment_start": 57.92979544088621,
+        "diagnoses": {
+            "submitter_id": "diagnosis_5fa8ee739e"
+        },
+        "submitter_id": "treatment_ae077f408a",
+        "therapeutic_agents": "b609461cc8",
+        "treatment_anatomic_site": "Occipital",
+        "treatment_intent_type": "2b8ced6006",
+        "treatment_or_therapy": "not reported",
+        "treatment_outcome": "Partial Response",
+        "treatment_type": "Other",
+        "type": "treatment"
+    }
+]

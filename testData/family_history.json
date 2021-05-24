@@ -1,0 +1,122 @@
+[
+    {
+        "cases": {
+            "submitter_id": "case_51adfdf50e"
+        },
+        "relationship_age_at_diagnosis": 97.37412923487638,
+        "relationship_gender": null,
+        "relationship_primary_diagnosis": "32b22d8589",
+        "relationship_type": "d0251842d7",
+        "relative_with_cancer_history": null,
+        "submitter_id": "family_history_252b394479",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_7cc9e67a29"
+        },
+        "relationship_age_at_diagnosis": 44.55905133681771,
+        "relationship_gender": "male",
+        "relationship_primary_diagnosis": "4d0f471bed",
+        "relationship_type": "2f39aef51c",
+        "relative_with_cancer_history": "not reported",
+        "submitter_id": "family_history_695ed8b58f",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_e5835de0d3"
+        },
+        "relationship_age_at_diagnosis": 5.661330127736974,
+        "relationship_gender": "not reported",
+        "relationship_primary_diagnosis": "9b774f611e",
+        "relationship_type": "591196968c",
+        "relative_with_cancer_history": "yes",
+        "submitter_id": "family_history_7dc584543e",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_5c46d21d76"
+        },
+        "relationship_age_at_diagnosis": 21.834357776272828,
+        "relationship_gender": "not reported",
+        "relationship_primary_diagnosis": "6df0342355",
+        "relationship_type": "4f815b25da",
+        "relative_with_cancer_history": "unknown",
+        "submitter_id": "family_history_c748c34180",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_baaf5ce74a"
+        },
+        "relationship_age_at_diagnosis": 16.04393750266835,
+        "relationship_gender": "unknown",
+        "relationship_primary_diagnosis": "916f11f2bb",
+        "relationship_type": "d90ba3e2a1",
+        "relative_with_cancer_history": null,
+        "submitter_id": "family_history_e97ef938b8",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_c00593a6de"
+        },
+        "relationship_age_at_diagnosis": 59.44545135310991,
+        "relationship_gender": "female",
+        "relationship_primary_diagnosis": "4047d426c9",
+        "relationship_type": "6ba99c8b3f",
+        "relative_with_cancer_history": "yes",
+        "submitter_id": "family_history_98c01c9e41",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_e14165a448"
+        },
+        "relationship_age_at_diagnosis": 3.8216130741848597,
+        "relationship_gender": "male",
+        "relationship_primary_diagnosis": "438afeb033",
+        "relationship_type": "782967cd14",
+        "relative_with_cancer_history": "unknown",
+        "submitter_id": "family_history_4464fe54f2",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_a545afabfb"
+        },
+        "relationship_age_at_diagnosis": 24.776141380676975,
+        "relationship_gender": "male",
+        "relationship_primary_diagnosis": "18f6978c42",
+        "relationship_type": "b2d26e2bdc",
+        "relative_with_cancer_history": "unknown",
+        "submitter_id": "family_history_5c9059900e",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_a16d357628"
+        },
+        "relationship_age_at_diagnosis": 75.19482829175365,
+        "relationship_gender": "unknown",
+        "relationship_primary_diagnosis": "2797e98e62",
+        "relationship_type": "c519725298",
+        "relative_with_cancer_history": "unknown",
+        "submitter_id": "family_history_e0e4a925aa",
+        "type": "family_history"
+    },
+    {
+        "cases": {
+            "submitter_id": "case_6de2deb70c"
+        },
+        "relationship_age_at_diagnosis": 45.59363888763291,
+        "relationship_gender": "unspecified",
+        "relationship_primary_diagnosis": "70c9cfc293",
+        "relationship_type": "471735edc6",
+        "relative_with_cancer_history": "yes",
+        "submitter_id": "family_history_9afb2a85ff",
+        "type": "family_history"
+    }
+]
